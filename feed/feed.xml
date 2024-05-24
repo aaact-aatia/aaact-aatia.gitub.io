@@ -33,22 +33,6 @@
 	<meta name="dcterms.modified" content="2024-05-24" >
 	<meta name="dcterms.subject" content="" />
 
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-SM9MSHWDVN"></script>
-	<script>
-		(function (w) {
-			"use strict";
-			var dl = "dataLayer";
-			if (w.location.hostname === "a11y.canada.ca" || w.location.hostname === "deploy-preview-335--a11ycanada.netlify.app") {
-				w[dl] = w[dl] || [];
-				w.gtag = function () {
-					w[dl].push(arguments);
-				}
-				w.gtag('js', new Date());
-				w.gtag('config', 'G-SM9MSHWDVN');
-			}
-		})(window);
-	</script>
 </head>
 
 
@@ -242,7 +226,7 @@
 	<subtitle>[object Object]</subtitle>
 	<link href="https://aaact-aatia.github.io/eleventy-base-blog/feed/feed.xml" rel="self"/>
 	<link href="https://aaact-aatia.github.io/eleventy-base-blog/"/>
-	<updated>2024-05-24T15:04:13Z</updated>
+	<updated>2024-05-24T16:00:05Z</updated>
 	<id>https://aaact-aatia.github.io/</id>
 	<author>
 		<name>AAACT / AATIA (SSC/SPC)</name>
@@ -324,6 +308,5 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-</body>
+	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script></body>
 </html>
