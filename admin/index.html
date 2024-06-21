@@ -1,51 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 	<head>
-		<title>Content Manager</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="robots" content="noindex" />
-		<!-- Include the Netlify indentity widget -->
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Netlify Identity</title>
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-		<style>
-			/* Hide the default login modal */
-			#netlify-identity-widget,
-			.netlify-identity-modal {
-				display: none;
-			}
-		</style>
 	</head>
 
 	<body>
-		<!-- Include the script that builds the page and powers Decap CMS -->
-		<script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+		<h1>Welcome to My Site</h1>
+		<button onclick="netlifyIdentity.open()">Login</button>
 
 		<script>
 			if (window.netlifyIdentity) {
 				window.netlifyIdentity.on("init", user => {
 					if (!user) {
 						window.netlifyIdentity.on("login", () => {
-							document.location.href = "/admin/";
+							document.location.href = "/dashboard"; // Redirect to dashboard on login
 						});
-					} else {
-						window.netlifyIdentity.open('login');
-						window.netlifyIdentity.logout();
 					}
 				});
-
-				window.netlifyIdentity.on("open", () => {
-					// Trigger GitHub login directly
-					window.netlifyIdentity.authenticate({ provider: 'github' });
-				});
 			}
-
-			// Automatically open the Netlify Identity widget on page load
-			document.addEventListener("DOMContentLoaded", function () {
-				window.netlifyIdentity.open('login');
-			});
 		</script>
-
 	</body>
 
 </html>
