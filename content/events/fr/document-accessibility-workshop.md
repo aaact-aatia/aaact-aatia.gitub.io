@@ -1,5 +1,5 @@
 ---
-title: Atelier des documents accessibles
+title: Atelier des documents accessibles -test
 host: Le Programme d’accessibilité, d’adaptation et de technologie informatique
   adaptée (AATIA) à Services partagés Canada
 language: French

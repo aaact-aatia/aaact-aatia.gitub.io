@@ -1,5 +1,5 @@
 ---
-title: Document Accessibility Workshop
+title: Document Accessibility Workshop - test
 host: The Accessibility, Accommodation and Adaptive Computer Technology (AAACT)
   program at Shared Services Canada
 language: French
