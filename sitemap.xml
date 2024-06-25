@@ -258,6 +258,11 @@
 	</url>
 	
 	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-sunny-in-montreal/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace/</loc>
 		<lastmod>2024-06-25</lastmod>
 	</url>
@@ -269,6 +274,11 @@
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/il-fait-toujours-beau-a-montreal/</loc>
 		<lastmod>2024-06-25</lastmod>
 	</url>
 	
