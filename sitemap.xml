@@ -30,7 +30,7 @@
 	<meta name="dcterms.creator" content="">
 	<meta name="dcterms.language" content="" />
 	<meta name="dcterms.created" content="2023-08-01">
-	<meta name="dcterms.modified" content="2024-06-26" >
+	<meta name="dcterms.modified" content="2024-06-27" >
 	<meta name="dcterms.subject" content="" />
 
 </head>
@@ -158,44 +158,20 @@
 	</div>
 </div>
 
-
-
 <nav id="wb-bc" property="breadcrumb">
 	<h2></h2>
 	<div class="container">
 		<ol class="breadcrumb" typeof="BreadcrumbList">
 			<!-- First breadcrumb: Canada.ca -->
 			<li property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="">
-					<span property="name">Canada.ca</span>
+				<a property="item" typeof="WebPage" href="/fr/">
+					<span property="name"></span>
 				</a>
 				<meta property="position" content="1">
 			</li>
-
-			<!-- Second breadcrumb: Locale-based home link -->
-			
-			
-				<li property="itemListElement" typeof="ListItem">
-					<a property="item" typeof="WebPage" href="//"></a>
-					<meta property="position" content="2">
-				</li>
-			
-
-			<!-- Additional breadcrumbs based on tags and subjects -->
-			
-				 
-
-				<!-- Breadcrumbs based on 'subject' -->
-				
-
-				<!-- Breadcrumbs based on 'tags' -->
-				
-			
 		</ol>
 	</div>
 </nav>
-
-
 </header>
 
 
@@ -229,67 +205,67 @@
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/intake-form/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/intake-form-information/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/document-accessibility-workshop/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-sunny-in-montreal/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/atelier-des-documents-accessibles/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/il-fait-toujours-beau-a-montreal/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/apercu-des-caracteristiques-d-accessibilite-sur-les-telephones-intelligents-et-de-la-technologie-adaptee-en-milieu-de-travail/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/how-can-aaact-help-you/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/comment-le-programme-d-aatia-peut-il-vous-aider/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
-		<lastmod>2024-06-26</lastmod>
+		<lastmod>2024-06-27</lastmod>
 	</url>
 </urlset>
 
@@ -303,7 +279,7 @@
 		<div class="col-sm-6 col-md-5 col-lg-4 col-sm-pull-4 col-md-pull-3">
 			<dl id="wb-dtmd">
 				<dt></dt>
-				<dd><time property="dateModified" datetime="2024-06-26">2024-06-26</time></dd>
+				<dd><time property="dateModified" datetime="2024-06-27">2024-06-27</time></dd>
 			</dl>
 		</div>
 	</div>
