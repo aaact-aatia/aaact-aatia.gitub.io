@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="">
 	<title>[object Object]</title>
 	<subtitle>[object Object]</subtitle>
-	<link href="https://aaact-aatia.github.io/eleventy-base-blog/feed/feed.xml" rel="self"/>
-	<link href="https://aaact-aatia.github.io/eleventy-base-blog/"/>
-	<updated>2024-11-26T16:47:24Z</updated>
+	<link href="https://aaact-aatia.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://aaact-aatia.github.io/"/>
+	<updated>2024-11-26T19:25:28Z</updated>
 	<id>https://aaact-aatia.github.io/</id>
 	<author>
 		<name>AAACT / AATIA (SSC/SPC)</name>
