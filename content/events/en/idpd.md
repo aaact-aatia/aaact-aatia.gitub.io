@@ -9,6 +9,8 @@ eventDate: 2024-12-04
 ---
 During this unique International Day of Persons with Disabilities (<abbr>IDPD</abbr>) 2024 session, we will give you a virtual glimpse of our new accessible space in the National Capital Region. We will showcase some of the less known tools that employees use to address workplace barriers. We will hear valuable insights that will help you create a more inclusive and accessible work environment.
 
+Should we delete this?
+
 ## Event details
 
 <dl>
