@@ -1,7 +1,15 @@
 ---
 title: How can AAACT help you?
 otherLanguageTitle: Comment le programme d’AATIA peut-il vous aider?
-description: AAACT provides a variety of adaptive technologies, tools, and services to help public service employees with disabilities or injuries. It offers adaptations like font size changes, ergonomic setups, and new working methods through individualized coaching. The program supports over 130 software packages and 4000 technical aids to meet diverse needs. The Lending Library pilot project fast-tracks accommodations, providing quick access to adaptive hardware and software. AAACT also offers training, workshops, and resources on accessibility, inclusive design, and digital content creation.
+description: AAACT provides a variety of adaptive technologies, tools, and
+  services to help public service employees with disabilities or injuries. It
+  offers adaptations like font size changes, ergonomic setups, and new working
+  methods through individualized coaching. The program supports over 130
+  software packages and 4000 technical aids to meet diverse needs. The Lending
+  Library pilot project fast-tracks accommodations, providing quick access to
+  adaptive hardware and software. AAACT also offers training, workshops, and
+  resources on accessibility, inclusive design, and digital content
+  **creation**.
 ---
 
 <div class="row">
