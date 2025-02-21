@@ -38,9 +38,8 @@ Voici l'épisode 2 des événements en direct de <abbr title="Accessibilité, ad
 ## Ordre du jour
 
 * Découvrez le 219 Laurier
-* La bibliothèque de prêt de l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr>
-* Nous allons simuler une conversation :.Lorsque le soutien d'une personne est la solution la plus efficace à un besoin d'adaptation
-
+* La bibliothèque de prêt de l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr>
+* Nous allons simuler une conversation :Lorsque le soutien d'une personne est la solution la plus efficace à un besoin d'adaptation
 
 ## Comment s'inscrire
 
